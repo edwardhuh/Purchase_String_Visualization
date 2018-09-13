@@ -2,7 +2,7 @@
 ## Introduction
 The **Purchase String Visualization Generator** is intended to provide an intuitive dashboard for generating and downloading informative graphics on purchase patterns.
 
-Open the [App](http://lnx1532.infores.com/pdedw/prd/Purchase_String_visualization/)!
+Open the [App](https://edwardhuh.shinyapps.io/purchase_string_visualization/)!
 
 ## Usage:
 ### **Changing colors in graphics:**
